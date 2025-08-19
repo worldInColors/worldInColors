@@ -9,10 +9,18 @@
     </a> 
   </p> 
 </div>
-<h1 align="center"> My contributions game 🐍🎮</h1>
+<h1 align="center"> My contributions</h1>
 
 <!-- Dark mode -->
 ![](https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!-- Light mode -->
 ![](https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<h1 align="center">Support Me</h1>
+<p align="center">
+  <img src="img/vocaloid/vocaloidchibi.png"><br>
+  <a href="https://ko-fi.com/H2H4X50IE">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+  </a>
+</p>
