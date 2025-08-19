@@ -1,20 +1,2 @@
-name: Snake game
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # optional: runs every day at midnight
-  workflow_dispatch: # allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate snake game from contribution grid
-        uses: Platane/snk@v3.3.0
-        with:
-          username: worldInColors # your GitHub username
-          output: ./output # folder where SVG/GIF will be saved
-          format: svg # or gif if you want animated gif
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.3.0
