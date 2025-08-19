@@ -9,6 +9,16 @@
     </a> 
   </p> 
 </div>
+<div>
+<h2 align="center">Knowledge</h2>
+</div>
+<div align = "center">
+<p align = "center">
+     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,kotlin,prisma,htmx&perline=5" alt="My Skills"/> 
+    </a>
+</p>
+</div>
 <h1 align="center"> My contributions</h1>
 
 <!-- Dark mode -->
