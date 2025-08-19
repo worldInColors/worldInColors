@@ -1,36 +1,63 @@
-<div align="center"> 
-  <a href="https://github.com/kawarimidoll/typograssy"> 
-    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="> 
-  </a> 
-  <p> 
-    <img draggable="false" src="https://komarev.com/ghpvc/?username=worldInColors&style=for-the-badge&color=1C8C8C"> 
-    <a href="mailto:contact@tmcc.dev"> 
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
-    </a> 
-  </p> 
-</div>
-<div>
-<h2 align="center">Knowledge</h2>
-</div>
-<div align = "center">
-<p align = "center">
-     <a href="https://skillicons.dev/icons?i=js,laravel,ts">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,kotlin,prisma,htmx&perline=5" alt="My Skills"/> 
-    </a>
-</p>
-</div>
-<h1 align="center"> My contributions</h1>
+# Hi there! 👋
 
-<!-- Dark mode -->
-![](https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<!-- Light mode -->
-![](https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<h1 align="center">Support Me</h1>
-<p align="center">
-  <img src="img/vocaloid/vocaloidchibi.png"><br>
-  <a href="https://ko-fi.com/H2H4X50IE">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
+<div align="center">
+  <a href="https://github.com/kawarimidoll/typograssy">
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
   </a>
-</p>
+  
+  <p>
+    <img draggable="false" src="https://komarev.com/ghpvc/?username=worldInColors&style=for-the-badge&color=1C8C8C">
+    <a href="mailto:contact@tmcc.dev">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,kotlin,prisma,htmx&perline=5" alt="Tech Stack" />
+  </a>
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=worldInColors&theme=tokyo-night" alt="GitHub Activity Graph">
+  </a>
+  <!-- Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=worldInColors&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+  <img src="img/vocaloid/vocaloidchibi.png" alt="Vocaloid Chibi" width="150">
+  
+  <p>If you find my projects helpful, consider buying me a coffee!</p>
+  
+  <a href="https://ko-fi.com/H2H4X50IE">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support on Ko-fi">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <em>Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀</em>
+</div>
