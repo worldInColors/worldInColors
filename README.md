@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center"> 
+  <a href="https://github.com/kawarimidoll/typograssy"> 
+    <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment="> 
+  </a> 
+  <p> 
+    <img draggable="false" src="https://komarev.com/ghpvc/?username=worldInColors&style=for-the-badge&color=1C8C8C"> 
+    <a href="mailto:contact@tmcc.dev"> 
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
+    </a> 
+  </p> 
+</div>
+<h1 align="center"> My contributions game 🐍🎮</h1>
 
-<!--
-**worldInColors/worldInColors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Dark mode -->
+![](https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Light mode -->
+![](https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake.svg#gh-light-mode-only)
