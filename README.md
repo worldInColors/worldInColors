@@ -25,10 +25,6 @@
 
 <div align="center">
   
-  <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=worldInColors&theme=tokyo-night" alt="GitHub Activity Graph">
-  </a>
   <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake-dark.svg">
@@ -36,12 +32,20 @@
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/worldInColors/worldInColors/output/github-contribution-grid-snake.svg">
   </picture>
   
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=worldInColors&theme=tokyo-night" alt="GitHub Activity Graph">
+  </a>
+  
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=worldInColors&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worldInColors&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </div>
 
 ## ☕ Support My Work
