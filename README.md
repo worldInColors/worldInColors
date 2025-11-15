@@ -1,5 +1,4 @@
 # Hi there! 👋
-
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%A7%E3%81%99%E3%80%82%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
@@ -14,7 +13,6 @@
 </div>
 
 ## 🛠️ Technologies & Tools
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,astro,express,mongodb,nodejs,bun,git,vscode,kotlin,prisma,htmx&perline=5" alt="Tech Stack" />
@@ -22,7 +20,6 @@
 </div>
 
 ## 📈 GitHub Activity
-
 <div align="center">
   
   <!-- Contribution Snake Animation -->
@@ -40,38 +37,32 @@
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
+  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=worldInColors&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worldInColors&theme=tokyonight" alt="GitHub Streak">
   
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worldInColors&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  
+</div>
+
+## 🏆 GitHub Achievements
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=worldInColors&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  
 </div>
 
 ## ⏱️ Coding Time
 <!--START_SECTION:waka-->
-
-```text
-From: 07 November 2025 - To: 14 November 2025
-
-Total Time: 18 hrs 36 mins
-
-TypeScript          16 hrs 47 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   86.17 %
-Other               52 mins         ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.53 %
-Markdown            39 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.41 %
-Kotlin              28 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.43 %
-CSS                 11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.98 %
-JSON                7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.68 %
-Bash                7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.63 %
-JavaScript          6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.58 %
-Git Config          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.43 %
-TSConfig            1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.09 %
-```
-
 <!--END_SECTION:waka-->
 
 ## ☕ Support My Work
-
 <div align="center">
   <img src="img/vocaloid/vocaloidchibi.png" alt="Vocaloid Chibi" width="150">
   
@@ -83,7 +74,6 @@ TSConfig            1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 ---
-
 <div align="center">
   <em>Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.</em>
 </div>
