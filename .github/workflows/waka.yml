@@ -1,9 +1,10 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
+  # Manual workflow trigger
   workflow_dispatch:
   schedule:
+    # Runs every day at 12 AM UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -14,3 +15,14 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Display settings
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          # Visual customization
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          CODE_LANG: text
+          # Commit settings
+          COMMIT_MESSAGE: "📊 Updated weekly coding stats"
