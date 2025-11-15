@@ -48,6 +48,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worldInColors&layout=compact&theme=tokyonight" alt="Most Used Languages">
 </div>
 
+## ⏱️ Coding Time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ☕ Support My Work
 
 <div align="center">
@@ -63,5 +67,5 @@
 ---
 
 <div align="center">
-  <em>Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀</em>
+  <em>Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.</em>
 </div>
