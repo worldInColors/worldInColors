@@ -40,13 +40,13 @@
 <div align="center">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=worldInColors&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.zcy.dev/api?username=worldInColors&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=worldInColors&theme=tokyonight" alt="GitHub Streak">
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=worldInColors&layout=compact&theme=tokyonight" alt="Most Used Languages">
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=worldInColors&theme=tokyonight" alt="Most Used Languages">
   
 </div>
 
