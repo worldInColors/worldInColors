@@ -38,16 +38,12 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.zcy.dev/api?username=worldInColors&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=worldInColors&theme=tokyonight" alt="GitHub Streak">
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=worldInColors&theme=tokyonight" alt="Most Used Languages">
-  
+  <a href="https://github.com/worldInColors">
+    <img height="180em" src="https://github-readme-stats.zcy.dev/api?username=worldInColors&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=worldInColors&theme=tokyonight"/>
+  </a>
+  <br>
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=worldInColors&theme=tokyonight&layout=compact" alt="Most Used Languages">
 </div>
 
 ## 🏆 GitHub Achievements
