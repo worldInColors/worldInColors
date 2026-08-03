@@ -57,13 +57,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 July 2026 - To: 31 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
-Total Time: 2 hrs 17 mins
+Total Time: 4 hrs 31 mins
 
-Go     1 hr 48 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀   78.74 %
-SQL    26 mins               ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.59 %
-YAML   2 mins                ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.68 %
+Go     3 hrs 47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.74 %
+SQL    41 mins               ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.41 %
+YAML   2 mins                ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
 ```
 
 <!--END_SECTION:waka-->
